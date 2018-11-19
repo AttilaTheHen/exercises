@@ -1,7 +1,7 @@
 {
-  "name": "node-template",
+  "name": "exercises",
   "version": "1.0.0",
-  "description": "node template",
+  "description": "Various exercises and coding problems",
   "main": "index.js",
   "scripts": {
     "lint": "eslint .",
